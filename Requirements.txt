@@ -1,0 +1,4 @@
+qrcode
+matplotlib
+numpy<2
+pillow
